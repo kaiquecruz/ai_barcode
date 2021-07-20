@@ -14,7 +14,9 @@ dependencies:
     sdk: flutter
   universal_platform: ^1.0.0-nullsafety
   ai_barcode_platform_interface: ^3.0.0
-  ai_barcode_web: ^3.0.0
+  ai_barcode_web: 
+    git: 
+      url: https://github.com/kaiquecruz/ai_barcode_web.git
 
 dev_dependencies:
   flutter_test:
